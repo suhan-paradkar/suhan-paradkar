@@ -8,4 +8,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhan-paradkar&theme=high-contrast)](https://git.io/streak-stats)
 
-[![Suhan-Paradkar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wisest_wizard)](https://github.com/anuraghazra/github-readme-stats)
+
